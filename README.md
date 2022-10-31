@@ -4,7 +4,8 @@
 Timberline or Moonlight3 drawing By hand  
 月光三和丛林帐类型的帐篷图样  
 这个图样并不够完全，需要按照自己骨架进行调整尺寸。  
-正面图更是遗留的老图。  
+前脸图更是遗留的老图。  
+内账主体裁剪图是我制作时用的尺寸
 ## B站链接: 
 
 [内账和骨架](https://www.bilibili.com/video/BV1TD4y1y7dH)
